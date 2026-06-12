@@ -20,6 +20,9 @@ function Footer() {
                     {new Date(import.meta.env.VITE_LAST_LEADERBOARD_UPDATE).toDateString()}{" "}
                     {new Date(import.meta.env.VITE_LAST_LEADERBOARD_UPDATE).toTimeString().split(" ")[0]}
                 </p>
+                <p>
+                    Updated by RainproDash the 12th of June 2026.
+                </p>
                 <div>
                     <a
                         href="https://github.com/Cephyric-gh/tome"
